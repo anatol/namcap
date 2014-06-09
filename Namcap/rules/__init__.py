@@ -41,6 +41,7 @@ from . import (
   mimefiles,
   missingbackups,
   perllocal,
+  perlsite,
   permissions,
   rpath,
   scrollkeeper,

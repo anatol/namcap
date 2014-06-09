@@ -64,6 +64,7 @@ not-a-common-license %s :: %s is not a common license (it's not in /usr/share/li
 not-enough-checksums %s %i needed :: Not enough %s: %i needed
 package-name-in-uppercase :: No upper case letters in package names
 perllocal-pod-present %s :: perllocal.pod found in %s.
+perlsite-dir-present %s :: Perl site directory %s contains files. Install files into perl vendor directory instead.
 pkgname-in-description :: Description should not contain the package name.
 potential-non-fhs-info-page %s :: Potential non-FHS info page (%s) found.
 potential-non-fhs-man-page %s :: Potential non-FHS man page (%s) found.
